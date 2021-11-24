@@ -1,7 +1,7 @@
 # Microsoft Learn Student Ambassadors Club NMIT
 ## _The Roadmap Series_
 
-![N|Solid](https://miro.medium.com/max/1200/1*M89--BG3rYBDJnlCEqaByQ.png)
+<img src="https://miro.medium.com/max/1200/1*M89--BG3rYBDJnlCEqaByQ.png" alt="Welcome to MLSA Club NMIT" width="400"/>
 
 
 
@@ -27,20 +27,20 @@ Hello Everyone!
 
 ---
 
-| Name | Certificate ID | 
-| ----------------------------------- |------------------------------------------- |
-| Naman Agrahari | 5fa5ef5b-c66e-452e-8407-856d2ece9eb1 |
-| Mohana Sahythi Pallampati | 39f22c18-5c49-440a-a7e6-31982c43f2e2 |
-
-
-
-
-
-
-
-
-
-
-
+| Name | Certificate ID                |
+| -------- | ------------------------- |
+| Kriti Gupta  | 5fa5ef5b-c66e-452e-8407-856d2ece9eb1 |
+| Anshika Chaurasia | 39f22c18-5c49-440a-a7e6-31982c43f2e2 |
+| K Karthik Reddy | d9157389-afd7-4aec-9a06-c8e53233af17 |
+| Mahadevan R | f7a6d5d6-ec84-4e68-a6cf-37aef70a44e8 |
+| Mohana Sahithi P | 9c0af271-aa96-4118-a10f-191b9cafeaa8 |
+| Naman Agrahari | 879232ee-36c0-4002-927d-46eadaba8b21 |
+| Puneet Hegde | aac2d92d-d281-45ef-84b0-fcb303bcd291 |
+| Sawan kumar  Gope | 02a5d16b-b5b0-4e6b-9675-671d66f26512 |
+| Shrey S | 09e951db-5589-4ee8-85b5-37bd747163f0 |
+| Shubham Kumar | 8297310d-9a30-4727-8406-e71deee91210 |
+| Sujith Nainasetty | d4aa3907-ec34-41b9-9007-992c5dad9c17 |
+| Vikitha H | b4ff936e-399e-4b8e-a586-99b83b16cbb1 |
+| Yasothai K | 28609c51-27e8-43df-8d05-2ac5263c318c |
 
 
